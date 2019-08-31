@@ -1,0 +1,3 @@
+# robots.txt for Paxplace.co.uk
+User-agent: *
+Sitemap: http://www.paxplace.co.uk/sitemap.xml

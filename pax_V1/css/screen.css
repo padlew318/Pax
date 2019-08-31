@@ -1,0 +1,142 @@
+* { PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px }
+BODY {
+BORDER: 0px; PADDING: 10px; MARGIN: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center; COLOR: #333333; TEXT-DECORATION: none; FONT-SIZE: 14px;
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; MARGIN: 3px 3px 3px; COLOR: #256491; text-align: center;
+}
+.h2 {
+	BACKGROUND: #E3F0FF; width:980;FONT-WEIGHT: bold; FONT-SIZE: 14px; padding: 3px; COLOR: #256491; margin-bottom:6px; margin-top:6px;
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN: 3px 0px 0px; COLOR: #256491
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN: 3px 0px 0px; COLOR: #256491
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; MARGIN: 3px 0px 0px; COLOR: #256491
+}
+P {
+	FONT-SIZE: 1.0em; MARGIN: 0px; LINE-HEIGHT: 1.5em
+}
+UL{
+	FONT-SIZE: 1.0em; MARGIN: 0px; LINE-HEIGHT: 1.5em; MARGIN-LEFT: 20px
+}
+LI{
+	FONT-SIZE: 1.0em; MARGIN: 0px; LINE-HEIGHT: 1.5em; TEXT-DECORATION: none
+}
+A {
+	COLOR: #0099cc; outline: none; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A:focus {
+	TEXT-DECORATION: none
+}
+IMG {
+	MARGIN: 0px; BORDER: none
+}
+table {
+	 padding:3px; -moz-border-radius: 5px; -khtml-border-radius: 5px; -webkit-border-radius: 5px; margin-bottom:5px;
+	}
+#globalcontainer {
+	BORDER: #707B97 1px solid; BACKGROUND: #ffffff; MARGIN: 5px auto; WIDTH: 1000px; TEXT-ALIGN: left
+}
+#maincontainer {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 6px; PADDING-TOP: 0px
+}
+#header {
+	BACKGROUND: url(../images/header.jpg) no-repeat #3C93FA; HEIGHT: 110px
+}
+#dropmenu {
+    margin: 0;
+	background: #3C93FA;
+	WIDTH: 1000px;
+	height: 28px;
+}
+#maincolwide {
+	MARGIN: 0px 10px 0px 10px; WIDTH: 980px; FLOAT: left
+}
+
+#content P {
+	MARGIN-BOTTOM: 6px
+}
+#footer {
+	CLEAR: both; BACKGROUND: #3C93FA; FONT-SIZE: 11px; MARGIN: 5px 0px 0px; COLOR: #ffffff; TEXT-ALIGN: center; PADDING-BOTTOM: 6px; PADDING-TOP: 6px
+}
+#footer A:link {
+	MARGIN: 0px 10px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+#footer A:visited {
+	MARGIN: 0px 10px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+#footer A:hover {
+	TEXT-DECORATION: none
+}
+
+#subfooter { CLEAR: both; COLOR: #333333; FONT-SIZE: 11px; MARGIN: 5px 0px 0px; TEXT-ALIGN: center; PADDING-BOTTOM: 6px; PADDING-TOP: 6px }
+#subfooter A:link { MARGIN: 0px 0px; COLOR: #256491; TEXT-DECORATION: none }
+#subfooter A:visited { MARGIN: 0px 0px; COLOR: #256491; TEXT-DECORATION: none }
+#subfooter A:hover { TEXT-DECORATION: none }
+
+.right { FLOAT: right }
+.clear { CLEAR: both }
+.left { FLOAT: left }
+
+.gallery { width:230px; height:195px; text-align:center; float:left; padding:2px; margin:3px; border:1px solid #666; } 
+.gallery h2 { padding:2px; margin:3px; FONT-WEIGHT: bold; FONT-SIZE: 11px; } 
+.admin_gallery { width:230px; height:230px; text-align:center; float:left; padding:2px; margin:3px; border:1px solid #666;} 
+
+.odd { BACKGROUND: #fff0c7; padding:5px; -moz-border-radius: 5px; -khtml-border-radius: 5px; -webkit-border-radius: 5px; margin-bottom:5px; }
+.even { BACKGROUND: #ffebad; padding:5px; -moz-border-radius: 5px; -khtml-border-radius: 5px;-webkit-border-radius: 5px; margin-bottom:5px; }
+.message_box_red { BACKGROUND: red; color:white; padding:5px; -moz-border-radius: 5px; -khtml-border-radius: 5px;-webkit-border-radius: 5px; margin-bottom:5px; }
+#map_canvas {
+width: 600px; height: 500px; border: 1px #CCC solid; float:right; margin: 3px;
+}
+
+.editpage { BACKGROUND: #ffe085; TEXT-ALIGN: center; FLOAT: left; WIDTH: 179px; MARGIN: 5px; PADDING: 3px;  -moz-border-radius: 5px; -khtml-border-radius: 5px; -webkit-border-radius: 5px; }  
+
+.calendar_date					{ font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 14px; color : #222222; }
+a.calendar_date					{ color: #0000aa; text-decoration: none; }
+a.calendar_date:hover			{ color: #000080; text-decoration: underline; }
+
+.calendar_navigation			{ font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 14px; color : #222222; }
+a.calendar_navigation			{ color: #0000aa; text-decoration: none; }
+a.calendar_navigation:hover		{ color: #000080; text-decoration: underline; }
+
+.calendar_day					{ font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 14px; color : #222222; }
+a.calendar_day					{ color: #0000aa; text-decoration: none; }
+a.calendar_day:hover			{ color: #000080; text-decoration: underline; }
+
+.calendar_date_number			{ font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 14px; color : #222222; }
+a.calendar_date_number			{ color: #0000aa; text-decoration: none; }
+a.calendar_date_number:hover	{ color: #000080; text-decoration: underline; }
+
+.calendar_date_small					{ font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 12px; color : #222222; }
+a.calendar_date_small					{ color: #0000aa; text-decoration: none; }
+a.calendar_date_small:hover			{ color: #000080; text-decoration: underline; }
+
+.calendar_navigation_small			{ font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 12px; color : #222222; }
+a.calendar_navigation_small			{ color: #0000aa; text-decoration: none; }
+a.calendar_navigation_small:hover		{ color: #000080; text-decoration: underline; }
+
+.calendar_day_small					{ font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 12px; color : #222222; }
+a.calendar_day_small					{ color: #0000aa; text-decoration: none; }
+a.calendar_day_small:hover			{ color: #000080; text-decoration: underline; }
+
+.calendar_date_number_small			{ font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 12px; color : #222222; }
+a.calendar_date_number_small			{ color: #0000aa; text-decoration: none; }
+a.calendar_date_number_small:hover	{ color: #000080; text-decoration: underline; }
+
+table.rounded td 		{ -moz-border-radius: 10px 10px 10px 10px; }
+table.rounded5 td 		{ -moz-border-radius: 5px 5px 5px 5px; }
+table.notrounded td 	{ -moz-border-radius: 0px 0px 0px 0px; }
+
+.text					{ font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 14px; color : #222222; }
+a.text					{ color: #0000aa; text-decoration: none; }
+a.text:hover			{ color: #222222; text-decoration: underline; }
+
+.orange_button			{ color: #000; background:#e77f06; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 13px; padding:4px 10px; -moz-border-radius: 5px; -khtml-border-radius: 5px; -webkit-border-radius: 5px; margin-bottom:5px; }
+.green_button			{ color: #222222; background:#69be28; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 13px; padding:4px 10px; -moz-border-radius: 5px; -khtml-border-radius: 5px; -webkit-border-radius: 5px; margin-bottom:5px; }
